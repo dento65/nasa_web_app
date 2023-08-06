@@ -1,6 +1,5 @@
 # merncompleteloginlogout
 MERN stack complete project.  
-[View Demo](https://mohitloginlogout.herokuapp.com/)  
 
 - To run frontend, go inside the client folder and run the following command
 ```
